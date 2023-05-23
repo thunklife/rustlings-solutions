@@ -1,23 +1,23 @@
 // functions3.rs
 // Make me compile! Execute `rustlings hint functions3` for hints :)
 
-// Original
+// ORIGINAL
 // fn main() {
 //     call_me();
 // }
 
-// fn call_me(num: u32) {
+// fn call_me(num: i32) {
 //     for i in 0..num {
 //         println!("Ring! Call number {}", i + 1);
 //     }
 // }
 
-// Updated
+// UPDATED
 fn main() {
-    call_me(12);
+    call_me(4);
 }
 
-fn call_me(num: u32) {
+fn call_me(num: i32) {
     for i in 0..num {
         println!("Ring! Call number {}", i + 1);
     }
