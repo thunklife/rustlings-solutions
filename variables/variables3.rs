@@ -1,7 +1,7 @@
 // variables3.rs
 // Make me compile! Execute the command `rustlings hint variables3` if you want a hint :)
 
-// Original
+// ORIGINAL
 // fn main() {
 //     let x = 3;
 //     println!("Number {}", x);
@@ -9,7 +9,7 @@
 //     println!("Number {}", x);
 // }
 
-// Updated
+// UPDATED
 fn main() {
     let mut x = 3;
     println!("Number {}", x);

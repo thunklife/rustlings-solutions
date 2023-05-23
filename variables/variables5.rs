@@ -1,18 +1,18 @@
 // variables5.rs
 // Make me compile! Execute the command `rustlings hint variables5` if you want a hint :)
 
-// Original
+// ORIGINAL
 // fn main() {
-//     let number = "T-H-R-E-E"; // don't change this line
-//     println!("Spell a Number : {}", number);
+//     let number = "3"; // don't change this line
+//     println!("Number {}", number);
 //     number = 3;
-//     println!("Number plus two is : {}", number + 2);
+//     println!("Number {}", number);
 // }
 
+// UPDATED
 fn main() {
-    let number = "T-H-R-E-E"; // don't change this line
-    println!("Spell a Number : {}", number);
-    // Shadowing
+    let number = "3"; // don't change this line
+    println!("Number {}", number);
     let number = 3;
-    println!("Number plus two is : {}", number + 2);
+    println!("Number {}", number);
 }

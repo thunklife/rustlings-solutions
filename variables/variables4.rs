@@ -1,14 +1,14 @@
 // variables4.rs
 // Make me compile! Execute the command `rustlings hint variables4` if you want a hint :)
 
-// Original 
+// ORIGINAL
 // fn main() {
 //     let x: i32;
 //     println!("Number {}", x);
 // }
 
-// Updated
+// UPDATED
 fn main() {
-    let x: i32 = 5;
+    let x: i32 = 192;
     println!("Number {}", x);
 }

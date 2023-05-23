@@ -1,7 +1,7 @@
 // variables2.rs
 // Make me compile! Execute the command `rustlings hint variables2` if you want a hint :)
 
-//Original
+// ORIGINAL
 // fn main() {
 //     let x;
 //     if x == 10 {
@@ -11,9 +11,9 @@
 //     }
 // }
 
-// Updated
+// UPDATED
 fn main() {
-    let x = 5;
+    let x = 11;
     if x == 10 {
         println!("Ten!");
     } else {
