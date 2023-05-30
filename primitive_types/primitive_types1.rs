@@ -26,7 +26,7 @@ fn main() {
         println!("Good morning!");
     }
 
-    let is_evening = false; 
+    let is_evening = false;
     if is_evening {
         println!("Good evening!");
     }

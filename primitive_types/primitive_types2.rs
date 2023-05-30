@@ -27,7 +27,6 @@
 //     }
 // }
 
-// UPDATED
 fn main() {
     // Characters (`char`)
 
@@ -40,7 +39,7 @@ fn main() {
         println!("Neither alphabetic nor numeric!");
     }
 
-    let your_character = '5';
+    let your_character = '2';
     if your_character.is_alphabetic() {
         println!("Alphabetical!");
     } else if your_character.is_numeric() {
